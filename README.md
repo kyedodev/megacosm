@@ -1,6 +1,6 @@
-# 🌌 Megacosm
-`1.19.2 - JDK 19`
+<img src="https://user-images.githubusercontent.com/91228490/218365082-4dcd05de-f6c3-4d8f-b877-0e83bd18a4d3.png" width="100%">
 
+![](https://img.shields.io/badge/Minecraft-1.19.2-blue) ![jdk-version](https://img.shields.io/badge/JDK-19-orange)
 
 ### how to install.
 [windows](#windows-install)  
