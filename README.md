@@ -4,8 +4,8 @@
 
 ### how to install.
 [windows](#install-on-windows)  
-[macos](#macos-install) (not yet written)  
-[linux](#linux-install) (not yet written)
+[macos](#install-on-macos) (not yet written)  
+[linux](#install-on-linux) (not yet written)
 
 <br>
 
@@ -46,12 +46,12 @@
 
 <br>
 
-### <a name="macos-install"></a>install on macos
+### install on macos
 `(not yet written)`
 
 <br>
 
-### <a name="linux-install"></a>install on linux
+### install on linux
 `(not yet written)`
 
 <br>
