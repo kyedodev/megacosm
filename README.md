@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Minecraft-1.19.2-blue) ![jdk-version](https://img.shields.io/badge/JDK-19-orange)
 
 ### how to install.
-[windows](#windows-install)  
+[windows](#install-on-windows)  
 [macos](#macos-install) (not yet written)  
 [linux](#linux-install) (not yet written)
 
@@ -13,7 +13,7 @@
 
 <br>
 
-### <a name="windows-install"></a>install on windows
+### install on windows
 
 1. **Download and install [JDK 19][jdk-link]**.
 
