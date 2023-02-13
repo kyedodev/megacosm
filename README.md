@@ -65,6 +65,9 @@
    * You can now search up and open MultiMC from the Start Menu.  
    <img src="https://user-images.githubusercontent.com/91228490/218371015-9332ac1b-e010-4b3b-844a-b0cb28320ca2.gif" width="500px">
 
+   * If Windows prompts it, press "More info" and "Run anyway".  
+   <img src="https://user-images.githubusercontent.com/91228490/218372220-31c6018b-17ec-4c4c-b00c-71bb01be3c20.gif" width="500px">
+
 <br>
 
 ### install on macos
