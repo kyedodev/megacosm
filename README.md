@@ -68,6 +68,16 @@
    * If Windows prompts it, press "More info" and "Run anyway".  
    <img src="https://user-images.githubusercontent.com/91228490/218372220-31c6018b-17ec-4c4c-b00c-71bb01be3c20.gif" width="500px">
 
+6. **Setup MultiMC.**
+
+   * Select your language and click "Next".
+
+   * Look for an Java option that is Java "19.0.2".  
+     If you can't find one, look at the JDK path from earlier;  
+     click "Browse", paste the path, and navigate to "bin".  
+     Navigate to the "javaw.exe" and click "Open".  
+     <img src="https://user-images.githubusercontent.com/91228490/218373806-cd73f2e6-ad06-4c23-bf18-6d62995be9c2.gif" width="500px">
+
 <br>
 
 ### install on macos
