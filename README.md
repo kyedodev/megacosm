@@ -42,7 +42,15 @@
    * Drag the "MultiMC" folder to `C:`.  
    ![move folder](https://user-images.githubusercontent.com/91228490/218360340-3983398f-5cc6-4136-a097-a58495e0c1a3.gif)
 
-3. 
+3. **Copy a shortcut of the .exe to the desktop.**
+
+   * Navigate into "MultiMC".
+   
+   * Copy "MultiMC.exe". Right click the desktop and "Paste shortcut".  
+   ![copy shortcut](https://user-images.githubusercontent.com/91228490/218367040-9f36e5a4-649d-448e-b8a9-9f3250c624ca.gif)
+
+   * Rename the shortcut to just "MultiMC".  
+   ![rename shortcut](https://user-images.githubusercontent.com/91228490/218367452-f6b4599b-33ff-4a04-a734-e6794e636b73.gif)
 
 <br>
 
