@@ -46,10 +46,10 @@
 
    * Navigate into "MultiMC".
    
-   * Copy "MultiMC.exe". Right click the desktop and "Paste shortcut".  
+   * Copy "MultiMC.exe". Right click the desktop and "**Paste shortcut**".  
    <img src="https://user-images.githubusercontent.com/91228490/218367040-9f36e5a4-649d-448e-b8a9-9f3250c624ca.gif" width="500px">
 
-   * Rename the shortcut to just "MultiMC".  
+   * **Rename the shortcut** to just "MultiMC".  
    <img src="https://user-images.githubusercontent.com/91228490/218367452-f6b4599b-33ff-4a04-a734-e6794e636b73.gif" width="500px">
 
 4. **Put the shortcut in the Start Menu.**
@@ -62,21 +62,36 @@
 
 5. **Start MultiMC.**
 
-   * You can now search up and open MultiMC from the Start Menu.  
+   * You can now search up and **open MultiMC from the Start Menu**.  
    <img src="https://user-images.githubusercontent.com/91228490/218371015-9332ac1b-e010-4b3b-844a-b0cb28320ca2.gif" width="500px">
 
-   * If Windows prompts it, press "More info" and "Run anyway".  
+   * If Windows prompts it, **press "More info" and "Run anyway"**.  
    <img src="https://user-images.githubusercontent.com/91228490/218372220-31c6018b-17ec-4c4c-b00c-71bb01be3c20.gif" width="500px">
 
 6. **Setup MultiMC.**
 
    * Select your language and click "Next".
 
-   * Look for an Java option that is Java "19.0.2".  
-     If you can't find one, look at the JDK path from earlier;  
-     click "Browse", paste the path, and navigate to "bin".  
-     Navigate to the "javaw.exe" and click "Open".  
+   * Look for an Java option that is version "**19.0.2**".  
+     If you can't find one, look at **the JDK path from earlier**;  
+     **click "Browse"**, **paste** the path, and navigate to "**bin**".  
+     Navigate to the "**javaw.exe**" and **click "Open"**.  
      <img src="https://user-images.githubusercontent.com/91228490/218373806-cd73f2e6-ad06-4c23-bf18-6d62995be9c2.gif" width="500px">
+   
+   * Make sure you've got enough memory to run Minecraft.  
+   I've got 16GBs of RAM, so I use 4GB min and 12GB max.  
+   **conversions.** so you don't have search 'em.  
+   ` 1GB ~=   954MiB`, ` 2GB ~=  1907MiB`, ` 3GB ~=  2861MiB`  
+   ` 4GB ~=  3815MiB`, ` 5GB ~=  4768MiB`, ` 6GB ~=  5722MiB`  
+   ` 7GB ~=  6676MiB`, ` 8GB ~=  7629MiB`, ` 9GB ~=  8583MiB`  
+   `10GB ~=  9537MiB`, `11GB ~= 10490MiB`, `12GB ~= 11444MiB`  
+   `13GB ~= 12398MiB`, `14GB ~= 13351MiB`, `15GB ~= 14305MiB`  
+   `16GB ~= 15259MiB`, `17GB ~= 16212MiB`, `18GB ~= 17166MiB`  
+   `19GB ~= 18120MiB`, `20GB ~= 19073MiB`, `21GB ~= 20027MiB`  
+   `22GB ~= 20981MiB`, `23GB ~= 21935MiB`, `24GB ~= 22888MiB`  
+   I honestly think you probably don't need more than 18GB of ram.  
+   You can search up "GB to MiB" if the amount you wanna put isn't on the list.  
+   ![image](https://user-images.githubusercontent.com/91228490/218375059-3e98032a-a364-4ba2-873f-6cc5a51bbb40.png)
 
 <br>
 
