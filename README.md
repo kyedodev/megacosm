@@ -52,6 +52,14 @@
    * Rename the shortcut to just "MultiMC".  
    ![rename shortcut](https://user-images.githubusercontent.com/91228490/218367452-f6b4599b-33ff-4a04-a734-e6794e636b73.gif)
 
+4. **Put the shortcut in the Start Menu.**
+
+   * Navigate to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`.  
+   ![image](https://user-images.githubusercontent.com/91228490/218367791-495ef0cf-6a28-446a-95eb-a71d43a7b642.png)
+
+   * Move the shortcut to the folder, press "Continue" if promted.  
+   ![move shortcut to start menu](https://user-images.githubusercontent.com/91228490/218368499-ef69353b-04f1-446e-b51d-bcb05d878a8a.gif)
+
 <br>
 
 ### install on macos
