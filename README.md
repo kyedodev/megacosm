@@ -17,7 +17,7 @@
 
 1. **Download and install [JDK 19][jdk-link]**.
 
-   * Remember/copy the folder location.  
+   * Remember the folder location.  
      ( default is `C:\Program Files\Java\jdk-19` )  
    ![image](https://user-images.githubusercontent.com/91228490/218356149-ec5dc788-cf03-43f2-bb6d-1d7eb0b0b3fb.png)
 
