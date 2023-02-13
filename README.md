@@ -4,27 +4,56 @@
 
 ### how to install.
 [windows](#windows-install)  
-[macos](#macos-install) ( not yet written )  
-[linux](#linux-install) ( not yet written )
+[macos](#macos-install) (not yet written)  
+[linux](#linux-install) (not yet written)
 
 <br>
 
+-----
+
+<br>
 
 ### <a name="windows-install"></a>install on windows
 
-1. Download the **[JDK 19 installer][jdk-link]**.
+1. **Download and install [JDK 19][jdk-link]**.
 
-   * Make sure to save the folder location.  
+   * Remember/copy the folder location.  
      ( default is `C:\Program Files\Java\jdk-19` )  
    ![image](https://user-images.githubusercontent.com/91228490/218356149-ec5dc788-cf03-43f2-bb6d-1d7eb0b0b3fb.png)
 
-2. Download and install **[MultiMC][multimc-link]**.
+   * Close the installer.  
+   ![image](https://user-images.githubusercontent.com/91228490/218356827-90593238-92d8-4460-970a-a1d691d0c011.png)
+
+2. **Download and install [MultiMC][multimc-link]**.
+
+   * Extract the files.  
+   ![image](https://user-images.githubusercontent.com/91228490/218357379-8a582f9d-81a7-47d5-b0af-2fdfe3fc5861.png)
+
+   * Keep the window to the extracted files open.  
+   ![image](https://user-images.githubusercontent.com/91228490/218359669-83e75314-ff1b-4777-8f71-9c59a1db0650.png)
+
+   * Open another File Explorer window.  
+     ( you can open one by **right-clicking the icon on the toolbar** and **selecting "File Explorer"** from the popup menu )  
+   ![image](https://user-images.githubusercontent.com/91228490/218358141-12ec4aa2-7529-425e-bfb2-e0eea9297511.png)
+
+   * Navigate to `C:`  
+   ![image](https://user-images.githubusercontent.com/91228490/218358524-e83761df-9fe1-4257-819a-462d56179bb4.png)
+
+   * Drag the "MultiMC" folder to `C:`.
+
 3. 
 
+<br>
 
-### <a name="macos-install"></a>install on macos ( not yet written )
+### <a name="macos-install"></a>install on macos
+`(not yet written)`
 
-### <a name="linux-install"></a>install on linux ( not yet written )
+<br>
+
+### <a name="linux-install"></a>install on linux
+`(not yet written)`
+
+<br>
 
 
 
