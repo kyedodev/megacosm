@@ -4,13 +4,13 @@
 
 ### how to install.
 [windows](#windows-install)  
-[macos](#macos-install) (not written)  
-[linux](#linux-install) (not written)
+[macos](#macos-install) ( not yet written )  
+[linux](#linux-install) ( not yet written )
 
 <br>
 
 
-### <a name="windows-install"></a>windows
+### <a name="windows-install"></a>install on windows
 
 1. Download the **[JDK 19 installer][jdk-link]**.
 
@@ -22,9 +22,9 @@
 3. 
 
 
-### <a name="macos-install"></a><strong>macos</strong>
+### <a name="macos-install"></a>install on macos ( not yet written )
 
-### <a name="linux-install"></a><strong>linux</strong>
+### <a name="linux-install"></a>install on linux ( not yet written )
 
 
 
