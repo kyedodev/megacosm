@@ -100,6 +100,22 @@
 
    * **Click "Finish".**
 
+7. **Log into your profile.**
+
+   * Click "Profiles" in the top right corner,  
+     and "Manage Accounts" under that.  
+     <img src="https://user-images.githubusercontent.com/91228490/218379231-b7714b56-de15-4571-9702-031f64bcfcc2.png">
+
+   * Click an option in the top right to add an account  
+     and follow the steps to log in.  
+     <img src="https://user-images.githubusercontent.com/91228490/218380138-ae91475b-69a8-4f87-933b-974ad7f11ec7.png">
+
+   * Close the settings window.
+
+8. **Import the instance.**
+
+   * Download the 
+
 <br>
 
 ### install on macos
