@@ -114,7 +114,14 @@
 
 8. **Import the instance.**
 
-   * Download the 
+   * Download the [latest instance](https://github.com/kyedodev/megacosm/releases).  
+     **Don't extract it.**  
+     <img src="https://user-images.githubusercontent.com/91228490/218412002-c9de9fcb-959f-42a2-9e53-73c714f9e465.gif" width="500px">
+
+   * Drag the zip file in the blank area, click OK.  
+     <img src="https://user-images.githubusercontent.com/91228490/218413387-4c538fee-369e-4a09-99f5-3b0b43553438.gif" width="500px">
+
+9. **Double click on the instance to start it.**
 
 <br>
 
