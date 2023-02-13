@@ -39,7 +39,8 @@
    * Navigate to `C:`  
    ![image](https://user-images.githubusercontent.com/91228490/218358524-e83761df-9fe1-4257-819a-462d56179bb4.png)
 
-   * Drag the "MultiMC" folder to `C:`.
+   * Drag the "MultiMC" folder to `C:`.  
+   ![move folder](https://user-images.githubusercontent.com/91228490/218360340-3983398f-5cc6-4136-a097-a58495e0c1a3.gif)
 
 3. 
 
